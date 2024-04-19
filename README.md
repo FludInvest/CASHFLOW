@@ -1,0 +1,10 @@
+BASE_NAME = info
+HOST = localhost
+USER = Flud
+PASSWORD = infofiz20
+PORT = 3306
+
+DISCORD = MTE0NTAzMTE3MjI4NDQ4MTUzNw.G7WzIs.zg5w6sIH1E1kim0TmqqHOhpH7KpYiUg9WEEERo
+DISCORD_WEBHOOK = https://discord.com/api/webhooks/1163154191041171507/3XUcnfu8pHGyuqTjtwNye8bar3eSDPTDI-ifwes6ginElIp6GKtRU3YxZZowv0DoERpw
+
+TINKOFF = t.T5SvwX_C1ge-lfdRFsPXa-C3KTEIWFxLsLsWgyGOl5A9kNb-ubqc-fb7GI-RM91m-TBvRcxYYvbMADmMD6Ec7w
